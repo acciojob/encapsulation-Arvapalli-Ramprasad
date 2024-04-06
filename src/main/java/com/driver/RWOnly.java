@@ -1,7 +1,7 @@
 package com.driver;
 
 public class RWOnly {
-    ublic class RWOnly {
+    
     private String name;
 
     // Getter
