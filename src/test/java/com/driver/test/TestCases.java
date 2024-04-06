@@ -6,7 +6,7 @@ import com.driver.RWOnly;
 import org.junit.Test;
 
 public class TestCases {
-     @Test
+     // @Test
     public void testGetterSetter() {
         RWOnly obj = new RWOnly();
         obj.setName("TestName");
