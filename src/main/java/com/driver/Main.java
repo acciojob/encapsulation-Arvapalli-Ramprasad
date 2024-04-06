@@ -14,4 +14,5 @@ public class Main {
 
         // Access its value using the getter function
         System.out.println(obj.getName());
+  }
 }
